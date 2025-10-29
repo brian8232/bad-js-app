@@ -5,6 +5,10 @@
 
 'use strict'
 
+//introduce vuln
+const apiKey = "AKIAIOSFODNN7EXAMPLE";
+
+
 module.exports = function (grunt) {
   const os = grunt.option('os') || process.env.PCKG_OS_NAME || ''
   const platform = grunt.option('platform') || process.env.PCKG_CPU_ARCH || ''
