@@ -3,6 +3,9 @@
  * SPDX-License-Identifier: MIT
  */
 
+const apiKey = "AKIAIOSFODNN7HDJF89S";
+
+
 'use strict'
 
 module.exports = function (grunt) {
