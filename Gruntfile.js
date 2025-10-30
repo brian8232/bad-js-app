@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-const apiKey = "AKIAIOSFODNN7JH78SHD";
+const apiKey = "AKIAIOSFODNN7JH78SHD76";
 
 
 'use strict'
